@@ -23,3 +23,47 @@
 ##### Puneet's presentation
 
 (to be uploaded)
+
+Discussion:
+
+- Peter: There is tremendous volume of resource, but it is not "fungible".
+- Puneet: We will see 2 projects in Patna. One is vertical, well-funded; other is smaller, more comprehensive.
+- Peter: The challenge is not TB; the challenge is health care delivery.
+- Peter: We are here for TB, but we're open to talk about the bigger problem.
+
+
+
+#### 16:00 WHP Patna
+
+##### Opening Discussion
+
+- WHP has three point focus:
+  - Scale
+  - Sustainability
+  - Urgency
+- Alma Ata Declaration: 1978. Focus on primary health.
+  - Health care should be preventive. Cure should be early
+- India has 3.3 million NGOs. But they cover less than 1% of health care expenditure.
+- 2 million formally qualified medicial profoessionals + 2 million "quacks"
+- Broad strategy: strengthen private sector to provide standardized scare at economically viable prices.
+- Engage with public sector
+- Learnings:
+  - Even the most illiterate took to the program
+  - Entrepreneurs willing to bear full course
+  - Tech well received
+  - People very price elastic - not willing to pay more
+  - Entrepreneur learns to become "doctor" him/herself
+  - Danger of WHP becoming smokescreen for illegal medical activities!
+- 250-350 rupees cost to patient. But that was too much.
+- The need for a Master plan
+  - Delivery of quality care (triaging, computer aided diagnosis)
+  - Uninterrupted availability of medicines/tests
+  - Attendance management
+  - Outbreak alerts
+  - Financial flow and services flow alignment
+  - Addressing crisis of drug resistance (regulation)
+  - Supplement with external resources
+  - Emergencies (accidents, drones)
+  - Others, blood banks
+- Was just awarded 110 million, 4500-centre project in Andhra (World Bank funded).
+  - In effect, it's even larger (since government pays salaries and medicine)
